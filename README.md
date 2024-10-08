@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi4234&label=Profile%20views&color=0e75b6&style=flat" alt="hadi4234" /> </p>
 
-- 🔭 I’m currently working on [Mern-Ecommerce Project](https://github.com/Hadi4234/mern-ecommerce)
+- 🔭 I’m currently working on [Next.js Ecommerce Project](https://github.com/Hadi4234/next-drizzle-ecom)
 
 - 🌱 I’m currently learning **Nextjs**
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **javascript, react, nodejs etc**
 
 - 📫 How to reach me **abdullahalhadi71852@gmail.com**
+
+- 📲 Phone number  ** +8801701032252 **
 
 - 📄 Know about my experiences [www.abdullahalhadi.com](www.abdullahalhadi.com)
 
