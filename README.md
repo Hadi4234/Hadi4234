@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdullahalhadi71852@gmail.com**
 
-- 📲 Phone number  ** +8801701032252 **
+- 📲 Phone number  **+8801701032252**
 
 - 📄 Know about my experiences [www.abdullahalhadi.com](www.abdullahalhadi.com)
 
