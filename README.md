@@ -7,15 +7,12 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [www.abdullahalhadi.com](www.abdullahalhadi.com)
-
 - 💬 Ask me about **javascript, react, nodejs etc**
 
 - 📫 How to reach me **abdullahalhadi71852@gmail.com**
 
 - 📲 Phone number  **+8801701032252**
 
-- 📄 Know about my experiences [www.abdullahalhadi.com](www.abdullahalhadi.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
